@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABEBA1-3C13-49AF-8F8F-D9E9B728BDBF}|TP3\\TP3.csproj|c:\\users\\mbfon\\source\\repos\\dev\\c# - infnet\\tp3\\tp3\\tp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABEBA1-3C13-49AF-8F8F-D9E9B728BDBF}|TP3\\TP3.csproj|solutionrelative:tp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABEBA1-3C13-49AF-8F8F-D9E9B728BDBF}|TP3\\TP3.csproj|c:\\users\\mbfon\\source\\repos\\dev\\c# - infnet\\tp3\\tp3\\tp3\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABEBA1-3C13-49AF-8F8F-D9E9B728BDBF}|TP3\\TP3.csproj|solutionrelative:tp3\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3\\Matricula.cs",
+              "RelativeDocumentMoniker": "TP3\\Matricula.cs",
+              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3\\Matricula.cs",
+              "RelativeToolTip": "TP3\\Matricula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:06:03.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3\\Program.cs",
+              "RelativeDocumentMoniker": "TP3\\Program.cs",
+              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3\\Program.cs",
+              "RelativeToolTip": "TP3\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:14:29.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
