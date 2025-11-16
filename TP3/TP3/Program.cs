@@ -44,7 +44,15 @@ static void Main(string[] args)
     gustavo.GetSituacao();
     gustavo.ReativarMatricula();
     gustavo.GetSituacao();
-    
+    Console.WriteLine("---------------Exercício 10 - 12.---------------");
+    //Para as classes Circulo e Esfera o atributo raio é importante para realizarmos os calculos de área e volume.
+
+    Circulo circulo = new Circulo(3.0);
+    Esfera esfera = new Esfera(5.0);
+
+    circulo.CalcularArea();
+    esfera.CalcularVolume();
+
 }   
 
 Main(args);

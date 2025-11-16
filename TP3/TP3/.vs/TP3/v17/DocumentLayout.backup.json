@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EABEBA1-3C13-49AF-8F8F-D9E9B728BDBF}|TP3\\TP3.csproj|c:\\users\\mbfon\\source\\repos\\dev\\c# - infnet\\tp3\\tp3\\tp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EABEBA1-3C13-49AF-8F8F-D9E9B728BDBF}|TP3\\TP3.csproj|solutionrelative:tp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EABEBA1-3C13-49AF-8F8F-D9E9B728BDBF}|TP3\\TP3.csproj|c:\\users\\mbfon\\source\\repos\\dev\\c# - infnet\\tp3\\tp3\\tp3\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EABEBA1-3C13-49AF-8F8F-D9E9B728BDBF}|TP3\\TP3.csproj|solutionrelative:tp3\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3\\Matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP3\\Matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\Ingressos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ingressos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\Class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,29 +34,66 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Matricula.cs",
-              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3\\Matricula.cs",
-              "RelativeDocumentMoniker": "TP3\\Matricula.cs",
-              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3\\Matricula.cs",
-              "RelativeToolTip": "TP3\\Matricula.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T21:06:03.536Z",
+              "DocumentIndex": 3,
+              "Title": "TP3.csproj",
+              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3.csproj",
+              "RelativeDocumentMoniker": "TP3.csproj",
+              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3.csproj",
+              "RelativeToolTip": "TP3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T16:57:13.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3\\Program.cs",
-              "RelativeDocumentMoniker": "TP3\\Program.cs",
-              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3\\Program.cs",
-              "RelativeToolTip": "TP3\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwC4AAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T15:14:29.645Z",
+              "WhenOpened": "2025-11-16T16:56:47.34Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\Class2.cs",
+              "RelativeDocumentMoniker": "Class2.cs",
+              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\Class2.cs",
+              "RelativeToolTip": "Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:56:44.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ingressos.cs",
+              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\Ingressos.cs",
+              "RelativeDocumentMoniker": "Ingressos.cs",
+              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\Ingressos.cs",
+              "RelativeToolTip": "Ingressos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:56:39.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3\\Matricula.cs",
+              "RelativeDocumentMoniker": "TP3\\Matricula.cs",
+              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP3\\TP3\\TP3\\Matricula.cs",
+              "RelativeToolTip": "TP3\\Matricula.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T21:06:03.536Z"
             }
           ]
         }
