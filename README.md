@@ -34,7 +34,7 @@ Para rodar qualquer um dos exercícios localmente:
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+    git clone [https://github.com/gusta-fontoura/gustavo_fontoura_Fundamentos_De_Desenvolvimento_C_Sharp](https://github.com/gusta-fontoura/gustavo_fontoura_Fundamentos_De_Desenvolvimento_C_Sharp)
     ```
 2.  Acesse a pasta do projeto desejado:
     ```bash
