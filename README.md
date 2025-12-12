@@ -38,7 +38,7 @@ Para rodar qualquer um dos exercícios localmente:
     ```
 2.  Acesse a pasta do projeto desejado:
     ```bash
-    cd nome-da-pasta-do-exercicio
+    cd gustavo_fontoura_Fundamentos_De_Desenvolvimento_C_Sharp
     ```
 3.  Execute o projeto via terminal:
     ```bash
