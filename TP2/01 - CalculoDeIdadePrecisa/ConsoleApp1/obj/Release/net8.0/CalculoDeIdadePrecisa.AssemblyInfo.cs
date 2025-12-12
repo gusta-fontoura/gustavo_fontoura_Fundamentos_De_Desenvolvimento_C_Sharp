@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculoDeIdadePrecisa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a54d9ebdd9d09c3da7da0baa8d8c9d96e8530bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e9693b7b7410ba5e192337f6b419cd0779cf14d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculoDeIdadePrecisa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculoDeIdadePrecisa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

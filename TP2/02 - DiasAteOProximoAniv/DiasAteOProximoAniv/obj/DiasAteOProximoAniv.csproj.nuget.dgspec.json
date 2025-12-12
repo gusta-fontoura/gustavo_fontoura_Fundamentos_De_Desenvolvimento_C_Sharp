@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mbfon\\source\\repos\\dev\\DiasAteOProximoAniv\\DiasAteOProximoAniv\\DiasAteOProximoAniv.csproj": {}
+    "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP2\\02 - DiasAteOProximoAniv\\DiasAteOProximoAniv\\DiasAteOProximoAniv.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mbfon\\source\\repos\\dev\\DiasAteOProximoAniv\\DiasAteOProximoAniv\\DiasAteOProximoAniv.csproj": {
+    "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP2\\02 - DiasAteOProximoAniv\\DiasAteOProximoAniv\\DiasAteOProximoAniv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mbfon\\source\\repos\\dev\\DiasAteOProximoAniv\\DiasAteOProximoAniv\\DiasAteOProximoAniv.csproj",
+        "projectUniqueName": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP2\\02 - DiasAteOProximoAniv\\DiasAteOProximoAniv\\DiasAteOProximoAniv.csproj",
         "projectName": "DiasAteOProximoAniv",
-        "projectPath": "C:\\Users\\mbfon\\source\\repos\\dev\\DiasAteOProximoAniv\\DiasAteOProximoAniv\\DiasAteOProximoAniv.csproj",
+        "projectPath": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP2\\02 - DiasAteOProximoAniv\\DiasAteOProximoAniv\\DiasAteOProximoAniv.csproj",
         "packagesPath": "C:\\Users\\mbfon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mbfon\\source\\repos\\dev\\DiasAteOProximoAniv\\DiasAteOProximoAniv\\obj\\",
+        "outputPath": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP2\\02 - DiasAteOProximoAniv\\DiasAteOProximoAniv\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

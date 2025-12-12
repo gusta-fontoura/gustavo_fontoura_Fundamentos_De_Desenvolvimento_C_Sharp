@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mbfon\\source\\repos\\dev\\DiferencaEntreDuasDatas\\",
+  "WorkspaceRootPath": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP2\\03 - DiferencaEntreDuasDatas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39DE3DD9-B101-4930-A648-05707DC6D3D1}|DiferencaEntreDuasDatas\\DiferencaEntreDuasDatas.csproj|c:\\users\\mbfon\\source\\repos\\dev\\diferencaentreduasdatas\\diferencaentreduasdatas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39DE3DD9-B101-4930-A648-05707DC6D3D1}|DiferencaEntreDuasDatas\\DiferencaEntreDuasDatas.csproj|c:\\users\\mbfon\\source\\repos\\dev\\c# - infnet\\tp2\\03 - diferencaentreduasdatas\\diferencaentreduasdatas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39DE3DD9-B101-4930-A648-05707DC6D3D1}|DiferencaEntreDuasDatas\\DiferencaEntreDuasDatas.csproj|solutionrelative:diferencaentreduasdatas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\DiferencaEntreDuasDatas\\DiferencaEntreDuasDatas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP2\\03 - DiferencaEntreDuasDatas\\DiferencaEntreDuasDatas\\Program.cs",
               "RelativeDocumentMoniker": "DiferencaEntreDuasDatas\\Program.cs",
-              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\DiferencaEntreDuasDatas\\DiferencaEntreDuasDatas\\Program.cs",
+              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP2\\03 - DiferencaEntreDuasDatas\\DiferencaEntreDuasDatas\\Program.cs",
               "RelativeToolTip": "DiferencaEntreDuasDatas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T13:48:11.505Z",
               "EditorCaption": ""

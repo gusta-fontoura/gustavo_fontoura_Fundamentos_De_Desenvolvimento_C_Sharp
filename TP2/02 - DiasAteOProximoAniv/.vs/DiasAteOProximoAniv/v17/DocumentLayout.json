@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mbfon\\source\\repos\\dev\\DiasAteOProximoAniv\\",
+  "WorkspaceRootPath": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP2\\02 - DiasAteOProximoAniv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B316EFB3-D54F-48F6-9089-7FDB39D16BEB}|DiasAteOProximoAniv\\DiasAteOProximoAniv.csproj|c:\\users\\mbfon\\source\\repos\\dev\\diasateoproximoaniv\\diasateoproximoaniv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B316EFB3-D54F-48F6-9089-7FDB39D16BEB}|DiasAteOProximoAniv\\DiasAteOProximoAniv.csproj|c:\\users\\mbfon\\source\\repos\\dev\\c# - infnet\\tp2\\02 - diasateoproximoaniv\\diasateoproximoaniv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B316EFB3-D54F-48F6-9089-7FDB39D16BEB}|DiasAteOProximoAniv\\DiasAteOProximoAniv.csproj|solutionrelative:diasateoproximoaniv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\DiasAteOProximoAniv\\DiasAteOProximoAniv\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP2\\02 - DiasAteOProximoAniv\\DiasAteOProximoAniv\\Program.cs",
               "RelativeDocumentMoniker": "DiasAteOProximoAniv\\Program.cs",
-              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\DiasAteOProximoAniv\\DiasAteOProximoAniv\\Program.cs",
+              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\C# - Infnet\\TP2\\02 - DiasAteOProximoAniv\\DiasAteOProximoAniv\\Program.cs",
               "RelativeToolTip": "DiasAteOProximoAniv\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T23:23:55.873Z",
               "EditorCaption": ""
